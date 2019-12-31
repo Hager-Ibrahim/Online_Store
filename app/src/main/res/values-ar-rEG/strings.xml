@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OnlineStore</string>
+    <string name="dress">فستان</string>
+    <string name="jalabya">جلابية</string>
+    <string name="cloak">بشت</string>
+    <string name="kids">أطفال</string>
+    <string name="mini_jalabya">جلابية قصيرة</string>
+    <string name="evening_dress">فستان سوارية</string>
+    <string name="morocan">جلابية مغربية</string>
+    <string name="blouse">بلوزة</string>
+    <string name="outfit">طقم</string>
+</resources>

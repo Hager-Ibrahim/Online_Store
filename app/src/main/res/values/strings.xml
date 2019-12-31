@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OnlineStore</string>
+    <string name="dress">Dress</string>
+    <string name="jalabya">Jalabya</string>
+    <string name="cloak">Cloak</string>
+    <string name="kids">Kids</string>
+    <string name="mini_jalabya">Mini Jalabya</string>
+    <string name="evening_dress">Evening Dess</string>
+    <string name="morocan">Morocan Jalabya</string>
+    <string name="blouse">Blouse</string>
+    <string name="outfit">Set</string>
+</resources>
